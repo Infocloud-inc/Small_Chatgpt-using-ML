@@ -1,0 +1,54 @@
+[
+    {
+      "text": "my unit test failed",
+      "category": "software"
+    },
+    {
+      "text": "tried the program, but it was buggy",
+      "category": "software"
+    },
+    {
+      "text": "who develop Chatgpt",
+      "category": "Ai open"
+    },
+    {
+      "text": "the drive has a 2TB capacity",
+      "category": "hardware"
+    },
+    {
+      "text": "what is your name",
+      "category": "ChulinAI"
+    },
+    {
+      "text": "program",
+      "category": "software"
+    },
+    {
+      "text": "who develop google ",
+      "category": "Larry Page"
+    },
+    {
+      "text": "drive",
+      "category": "hardware"
+    },
+    {
+      "text": "Who is the deeveloper of this project or web ",
+      "category": "Chulindra"
+    },
+    {
+      "text": "code",
+      "category": "software"
+    },
+    {
+      "text": "i found some bugs in the code",
+      "category": "software"
+    },
+    {
+      "text": " can Ai replace Engineers",
+      "category": "somewhat"
+    },
+    {
+      "text": "recommend me a song amd movie ",
+      "category": " shape_of_you & 3 idots"
+    }
+  ]
